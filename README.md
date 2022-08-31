@@ -1,4 +1,4 @@
-# GDSMPTRRTM - Studi Kasus Godot Engine Simple Turret Aim
+# GDSMPTRRTM - Simple Turret Aim System dengan Godot Engine
 
 ## Cara Mencoba Kode Ini
 
