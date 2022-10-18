@@ -1,12 +1,12 @@
-# GDSMPTRRTM - Simple Turret Aim System dengan Godot Engine
+# SHBGDSimpleTurretAimSystem - Simple Turret Aim System dengan Godot Engine
 
 ## Software Apakah Ini?
 
-GDSMPTRRTM adalah script Godot Engine yang menunjukkan cara membuat Simple Turret Aim System dengan Godot Engine.
+SHBGDSimpleTurretAimSystem adalah script Godot Engine yang menunjukkan cara membuat Simple Turret Aim System dengan Godot Engine.
 
 ## Screenshot
 
-![ScreenShot](.readme-assets/GDSMPTRRTM-1.png?raw=true)
+![ScreenShot](.readme-assets/SHBGDSimpleTurretAimSystem-1.png?raw=true)
 
 ## Cara Mencoba Kode Ini
 
