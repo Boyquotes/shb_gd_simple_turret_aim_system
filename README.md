@@ -1,5 +1,9 @@
 # SHBGDSimpleTurretAimSystem - Simple Turret Aim System dengan Godot Engine
 
+## Traktir Saya
+
+Berikan saya uang gratis di https://bit.ly/shb-traktir
+
 ## Software Apakah Ini?
 
 SHBGDSimpleTurretAimSystem adalah script Godot Engine yang menunjukkan cara membuat Simple Turret Aim System dengan Godot Engine.
