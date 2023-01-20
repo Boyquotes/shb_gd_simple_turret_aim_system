@@ -1,12 +1,5 @@
 # SHBGDSimpleTurretAimSystem - Simple Turret Aim System dengan Godot Engine
 
-## Link-Link Penting
-
-- SOFTWARE GRATIS: https://shbfrlnc.github.io/
-- BLOG: https://shbfrlnc.github.io/tags/blog/
-- PENGUMUMAN: https://shbfrlnc.github.io/tags/pengumuman/
-- DUKUNG: https://shbfrlnc.github.io/dukung.html
-
 ## Software Apakah Ini?
 
 SHBGDSimpleTurretAimSystem adalah script Godot Engine yang menunjukkan cara membuat Simple Turret Aim System dengan Godot Engine.
