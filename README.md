@@ -12,7 +12,7 @@ SHBGDSimpleTurretAimSystem adalah script Godot Engine yang menunjukkan cara memb
 
 Untuk mencoba kode ini, Anda memerlukan Godot Engine v3.5.
 
-Download dan install software tersebut.
+Download dan install software tersebut...
 
 Kemudian buka project ini dan jalankan.
 
