@@ -1,4 +1,4 @@
-# SHBGDSimpleTurretAimSystem - Simple Turret Aim System dengan Godot Engine
+# shb_gd_simple_turret_aim_system - Simple Turret Aim System dengan Godot Engine
 
 ## Software Apakah Ini?
 
