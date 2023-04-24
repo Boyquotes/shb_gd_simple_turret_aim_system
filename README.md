@@ -2,23 +2,7 @@
 
 ## Software Apakah Ini?
 
-SHBGDSimpleTurretAimSystem adalah script Godot Engine yang menunjukkan cara membuat Simple Turret Aim System dengan Godot Engine.
-
-## Screenshot
-
-![ScreenShot](.readme-assets/SHBGDSimpleTurretAimSystem-1.png?raw=true)
-
-## Cara Mencoba Kode Ini
-
-Untuk mencoba kode ini, Anda memerlukan Godot Engine v3.5.
-
-Download dan install software tersebut...
-
-Kemudian buka project ini dan jalankan.
-
-## Pendahuluan
-
-Kali ini saya akan memberi contoh cara membuat turret aim system sederhana.
+shb_gd_simple_turret_aim_system adalah script Godot Engine yang menunjukkan cara membuat Simple Turret Aim System dengan Godot Engine.
 
 Turret aim system ini bisa mengarahkan muzzle ke titik yang ditunjukkan oleh kursor di ruang 3D.
 
@@ -34,6 +18,14 @@ Adapun aim sendiri dilakukan dengan melakukan look_at ke posisi target.
 
 Setelah itu, kita mengonversinya ke euler dan menggunakan method rotate_y dan rotate_x.
 
-## Struktur Project
+## Cara Mencoba Kode Ini
 
-Untuk melihat struktur project game ini, silakan buka project ini di Godot Engine.
+Untuk mencoba kode ini, Anda memerlukan Godot Engine.
+
+Download dan install software tersebut...
+
+Kemudian buka project ini dan jalankan.
+
+## Screenshot
+
+![ScreenShot](.readme-assets/SHBGDSimpleTurretAimSystem-1.png?raw=true)
